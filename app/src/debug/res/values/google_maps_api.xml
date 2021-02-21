@@ -4,7 +4,7 @@
 
     To get one, follow this link, follow the directions and press "Create" at the end:
 
-    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=73:6B:82:65:3A:5C:A4:61:6F:CF:9C:BA:73:CB:84:25:24:6E:1F:DA%3Bcom.rinzler.earthquake
+//todo access your google console to give permission for google api
 
     You can also add your credentials to an existing key, using these values:
 
@@ -12,7 +12,7 @@
     com.rinzler.earthquake
 
     SHA-1 certificate fingerprint:
-    73:6B:82:65:3A:5C:A4:61:6F:CF:9C:BA:73:CB:84:25:24:6E:1F:DA
+    //todo your SHA-1 finngerprint here
 
     Alternatively, follow the directions here:
     https://developers.google.com/maps/documentation/android/start#get-key
