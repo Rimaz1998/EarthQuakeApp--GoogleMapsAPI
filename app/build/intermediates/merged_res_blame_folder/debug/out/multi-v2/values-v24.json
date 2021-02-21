@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Mr M Rimaz\\AndroidStudioProjects\\EarthQuake\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Mr M Rimaz\\.gradle\\caches\\transforms-2\\files-2.1\\4f9c7f78c15bb692cf0895b881aafbad\\appcompat-1.2.0\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Mr M Rimaz\\.gradle\\caches\\transforms-2\\files-2.1\\d5d7cbb2b54934ab26230a532f16fddc\\wear-1.0.0\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "929"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "347",
+                        "endLines": "16",
+                        "endColumns": "12",
+                        "endOffsets": "1221"
+                    }
+                }
+            ]
+        }
+    ]
+}
